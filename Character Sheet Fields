@@ -12,13 +12,28 @@ background, String
 max_hp, int
 current_hp, int
 temp_hp, int
+initiatice, int (dex + 
 
 //ac calc
 sheild, boolean
 armour_bonus, int
 max_dex, int
 misc_bonus, int
-
+ac, int
+//AC
+ac = 10
+if (max_dex != 0) {
+	if(sheild) {
+    	ac +=2;
+	}
+  	if (dex > max_dex) {
+    	ac += max_dex;
+  	}
+  	else {
+    	ac += dex;
+ 	}
+  	ac += armour_bonus;
+}
 //Stats
 Str, int
 temp_Str, int
