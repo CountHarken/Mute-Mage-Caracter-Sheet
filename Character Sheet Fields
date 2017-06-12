@@ -41,3 +41,78 @@ athletics_prof, boolean
 athletics_exp, boolean
 misc_athletics_mod, int
 //repeat for other stats
+
+Dex, int
+temp_dex, int
+acrobatics_prof, boolean
+acrobatics_exp, boolean
+misc_acrobatics_mod, int
+
+sleight_of_hand_prof, boolean
+sleight_of_hand_exp, boolean
+misc_sleight_of_hand_mod, int
+
+stealth_prof, boolean
+stealth_exp, boolean
+misc_stealth_mod, int
+
+Con,int
+
+Int,int
+arcana_prof, boolean
+arcana_exp, boolean
+misc_arcana_mod, int
+
+history_prof, boolean
+history_exp, boolean
+misc_history_mod, int
+
+investigation_prof, boolean
+investigation_exp, boolean
+misc_investigation_mod, int
+
+nature_prof, boolean
+nature_exp, boolean
+misc_nature_mod, int
+
+religion_prof, boolean
+religion_exp, boolean
+misc_religion_mod, int
+
+wis, int
+animal_handling_prof, boolean
+animal_handling_exp, boolean
+misc_animal_handling_mod, int
+
+insight_prof, boolean
+insight_exp, boolean
+misc_insight_mod, int
+
+medicine_prof, boolean
+medicine_exp, boolean
+misc_medicine_mod, int
+
+perception_prof, boolean
+perception_exp, boolean
+misc_perception_mod, int
+
+survival_prof, boolean
+survival_exp, boolean
+misc_survival_mod, int
+
+cha,int
+deception_prof, boolean
+deception_exp, boolean
+misc_deception_mod, int
+
+intimidation_prof, boolean
+intimidation_exp, boolean
+misc_intimidation_mod, int
+
+performance_prof, boolean
+performance_exp, boolean
+misc_performance_mod, int
+
+persuasion_prof, boolean
+persuasion_exp, boolean
+misc_persuasion_mod, int
