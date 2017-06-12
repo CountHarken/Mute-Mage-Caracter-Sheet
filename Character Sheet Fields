@@ -1,0 +1,28 @@
+character_name, String
+player_name, String
+campaign, String
+race, String
+class, String[]
+class_Levels, int[]
+alignment, enum
+xp, int
+background, String
+
+//combat
+max_hp, int
+current_hp, int
+temp_hp, int
+
+//ac calc
+sheild, boolean
+armour_bonus, int
+max_dex, int
+misc_bonus, int
+
+//Stats
+Str, int
+temp_Str, int
+athletics_prof, boolean
+athletics_exp, boolean
+misc_athletics_mod, int
+//repeat for other stats
